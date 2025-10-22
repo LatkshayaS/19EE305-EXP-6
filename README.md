@@ -12,6 +12,7 @@ LVDT is basically a mutual inductance type transformer with variable coupling be
 
 ## DIAGRAM:
 ## CIRCUIT DIAGRAM
+![](1.jpge)
 ## PROCEDURE:
 I. Connect the multimeter at the output of kit..
 2. Set the range to a maximum value of 10 mm.
@@ -21,7 +22,7 @@ I. Connect the multimeter at the output of kit..
 
 
 ## OBSERVATION TABLE:
-![]()
+![](2.jpge)
 ## PRECAUTION:
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
